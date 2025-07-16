@@ -1,7 +1,7 @@
 <h1 align="center">Hi 💫 I'm Salomé González</h1>
-<p align="center">✨ Frontend Dev | Lover of beautiful UI | Pastel Aesthetic Enthusiast ✨</p>
+<p align="center">✨ Software Development Student | 💻 Aspiring Full Stack Developer| Pastel Aesthetic Enthusiast ✨</p>
 
-<p align="center">
+<p align="center" >
   <img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://github.com/Salito112"><img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-F6A5C0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -28,6 +28,7 @@ const salome = {
 
 ### 🛠 Skills
 <p>
+   <img src="https://img.shields.io/badge/Python-FAD0E4?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-FC9DCB?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FED5EC?style=for-the-badge&logo=javascript&logoColor=white" />
