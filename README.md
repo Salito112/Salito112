@@ -45,5 +45,5 @@ const salome = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=800&color=F78BC2&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🌸;Follow+me+for+more+cutie+projects!+💖" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=800&color=F78BC2&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+🌸; Follow+me+for+more+cutie+projects!+💖" />
 </p>
