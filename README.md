@@ -28,7 +28,8 @@ const salome = {
 
 ### 🛠 Skills
 <p>
-   <img src="https://img.shields.io/badge/Python-FAD0E4?style=for-the-badge&logo=python&logoColor=white" />
+   <a href="https://github.com/Salito112/Ejercicios-python-Riwi.git" target="_blank">
+     <img src="https://img.shields.io/badge/Python-FAD0E4?style=for-the-badge&logo=python&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/HTML-FC9DCB?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FED5EC?style=for-the-badge&logo=javascript&logoColor=white" />
