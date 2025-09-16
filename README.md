@@ -39,13 +39,8 @@
 
 ---
 
-## 🎬 Animations  
 
-<!-- Snake animation -->
-![snake gif](https://github.com/Salito112/Salito112/blob/output/github-contribution-grid-snake-dark.svg)
 
-<!-- Wave Footer -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" width="100%" />
 
 ---
 
